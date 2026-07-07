@@ -2,7 +2,7 @@
 
 Course project for Directed Research in AI, Peking University.
 
-This project explores automatic generation of SPICE-style netlists from images of analog circuit diagrams, focusing on circuits extracted from Razavi's analog circuit textbook. It builds on the AMSNet-style template matching and graph traversal pipeline, then adds preprocessing and template-matching improvements for noisier textbook figures.
+This project explores automatic generation of SPICE-style netlists from images of analog circuit diagrams, focusing on circuits extracted from Razavi's analog circuit textbook. It builds on the [AMSNet-style](https://arxiv.org/abs/2411.13560) template matching and graph traversal pipeline, then adds preprocessing and template-matching improvements for noisier textbook figures.
 
 ## Project Summary
 
@@ -38,7 +38,7 @@ In the course report, the improved pipeline achieved an average component detect
 `-- 提交/
     |-- Netlist_for_pdf.ipynb # Main notebook for PDF-image netlist generation
     |-- convert_pdf/          # Submitted outputs and intermediate result folders
-    `-- 张孟尧-2300011424-唐希源.pdf
+    `-- report.pdf
 ```
 
 Large raw data folders, third-party source trees, local model weights, videos, LaTeX build files, and duplicate archives are intentionally excluded by `.gitignore`.
