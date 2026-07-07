@@ -1,0 +1,8 @@
+*SPICE Netlist for circuit 45
+I1 0 1 DC 1mA
+U1 1 0 2
+R1 1 2 1k
+
+.OP
+.END
+

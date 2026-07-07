@@ -1,0 +1,14 @@
+*SPICE Netlist for circuit 33
+C1 0 1 1nF
+C2 0 3 1nF
+C3 0 2 1nF
+V1 0 5 5V
+R2 5 1 1k
+U1 1 6
+R3 6 2 1k
+U2 2 7
+R1 7 3 1k
+
+.OP
+.END
+

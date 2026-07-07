@@ -1,0 +1,13 @@
+*SPICE Netlist for circuit 17
+I1 1 0 DC 1mA
+V2 4 0 5V
+V4 0 5 5V
+M2 2 6 1 1 NMOS W=1u L=1u
+M1 3 7 1 1 NMOS W=1u L=1u
+V1 7 4 5V
+V3 5 6 5V
+.MODEL NMOS NMOS (LEVEL=1 VTO=1 KP=1.0e-4 LAMBDA=0.02)
+
+.OP
+.END
+

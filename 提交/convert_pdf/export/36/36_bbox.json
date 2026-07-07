@@ -1,0 +1,240 @@
+{
+  "capacitor_0": [],
+  "capacitor_180": [],
+  "capacitor_270": [],
+  "capacitor_90": [],
+  "current-arrow_0": [
+    [
+      562,
+      343,
+      633,
+      416
+    ]
+  ],
+  "current-arrow_180": [],
+  "current-arrow_270": [],
+  "current-arrow_90": [],
+  "current_0": [],
+  "current_180": [],
+  "current_270": [],
+  "current_90": [],
+  "gnd_0": [
+    [
+      669,
+      360,
+      713,
+      404
+    ]
+  ],
+  "gnd_180": [],
+  "gnd_270": [],
+  "gnd_90": [],
+  "net-black_111": [
+    [
+      470,
+      367,
+      496,
+      393
+    ]
+  ],
+  "net-black_120": [],
+  "net-black_121": [],
+  "net-black_201": [],
+  "net-black_210": [
+    [
+      319,
+      517,
+      348,
+      546
+    ]
+  ],
+  "net-black_211": [],
+  "net-black_21": [
+    [
+      231,
+      520,
+      256,
+      545
+    ]
+  ],
+  "net-black_291": [],
+  "net-black_300": [
+    [
+      228,
+      153,
+      258,
+      183
+    ],
+    [
+      228,
+      577,
+      258,
+      607
+    ]
+  ],
+  "net-black_301": [],
+  "net-black_30": [
+    [
+      317,
+      214,
+      347,
+      244
+    ]
+  ],
+  "net-black_31": [
+    [
+      225,
+      212,
+      256,
+      245
+    ]
+  ],
+  "net-white_100": [],
+  "net-white_10": [
+    [
+      317,
+      429,
+      347,
+      460
+    ],
+    [
+      408,
+      96,
+      438,
+      127
+    ],
+    [
+      498,
+      95,
+      528,
+      126
+    ]
+  ],
+  "net-white_190": [],
+  "net-white_280": [],
+  "nmos-cross_0": [],
+  "nmos-cross_180": [],
+  "nmos-cross_270": [],
+  "nmos-cross_90": [],
+  "nmos-mirror-cross_0": [],
+  "nmos-mirror-cross_180": [],
+  "nmos-mirror-cross_270": [],
+  "nmos-mirror-cross_90": [],
+  "nmos-mirror_0": [
+    [
+      387,
+      526,
+      460,
+      597
+    ]
+  ],
+  "nmos-mirror_180": [
+    [
+      116,
+      467,
+      190,
+      539
+    ],
+    [
+      117,
+      105,
+      190,
+      176
+    ]
+  ],
+  "nmos-mirror_270": [],
+  "nmos-mirror_90": [],
+  "nmos_0": [
+    [
+      387,
+      164,
+      463,
+      236
+    ]
+  ],
+  "nmos_180": [],
+  "nmos_270": [],
+  "nmos_90": [],
+  "opamp-2_0": [],
+  "opamp-2_180": [],
+  "opamp-2_270": [],
+  "opamp-2_90": [],
+  "opamp-3-mirror_0": [],
+  "opamp-3-mirror_180": [],
+  "opamp-3-mirror_270": [],
+  "opamp-3-mirror_90": [],
+  "opamp-3_0": [],
+  "opamp-3_180": [],
+  "opamp-3_270": [],
+  "opamp-3_90": [],
+  "pmos-cross_0": [],
+  "pmos-cross_180": [],
+  "pmos-cross_270": [],
+  "pmos-cross_90": [],
+  "pmos-mirror-cross_0": [],
+  "pmos-mirror-cross_180": [],
+  "pmos-mirror-cross_270": [],
+  "pmos-mirror-cross_90": [],
+  "pmos-mirror_0": [
+    [
+      117,
+      223,
+      190,
+      293
+    ],
+    [
+      117,
+      587,
+      190,
+      657
+    ]
+  ],
+  "pmos-mirror_180": [],
+  "pmos-mirror_270": [],
+  "pmos-mirror_90": [],
+  "pmos_0": [],
+  "pmos_180": [],
+  "pmos_270": [],
+  "pmos_90": [],
+  "resistor_0": [],
+  "resistor_180": [],
+  "resistor_270": [],
+  "resistor_90": [],
+  "vdd_0": [
+    [
+      42,
+      154,
+      85,
+      184
+    ],
+    [
+      42,
+      215,
+      85,
+      245
+    ],
+    [
+      42,
+      518,
+      85,
+      548
+    ],
+    [
+      42,
+      579,
+      85,
+      609
+    ]
+  ],
+  "vdd_180": [],
+  "vdd_270": [],
+  "vdd_90": [],
+  "voltage-mirror_0": [],
+  "voltage-mirror_180": [],
+  "voltage-mirror_270": [],
+  "voltage-mirror_90": [],
+  "voltage_0": [],
+  "voltage_180": [],
+  "voltage_270": [],
+  "voltage_90": []
+}

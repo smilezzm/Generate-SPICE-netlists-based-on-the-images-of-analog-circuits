@@ -1,0 +1,9 @@
+*SPICE Netlist for circuit 46
+I1 1 2 DC 1mA
+U1 4 0 13
+R2 0 1k
+R1 2 1 1k
+
+.OP
+.END
+

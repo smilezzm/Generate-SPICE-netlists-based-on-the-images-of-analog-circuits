@@ -1,0 +1,10 @@
+*SPICE Netlist for circuit 55
+M1 1 6 2 2 NMOS W=1u L=1u
+R2 0 2 1k
+R1 2 1 1k
+U1 2 3 6
+.MODEL NMOS NMOS (LEVEL=1 VTO=1 KP=1.0e-4 LAMBDA=0.02)
+
+.OP
+.END
+

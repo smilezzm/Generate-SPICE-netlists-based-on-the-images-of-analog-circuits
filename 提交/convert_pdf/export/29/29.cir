@@ -1,0 +1,7 @@
+*SPICE Netlist for circuit 29
+C1 2 1 1nF
+U1 2 1
+
+.OP
+.END
+

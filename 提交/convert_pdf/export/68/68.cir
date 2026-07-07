@@ -1,0 +1,10 @@
+*SPICE Netlist for circuit 68
+R2 0 1 1k
+U1 1 2 4
+R1 1 1k
+M1 3 4 1 1 PMOS W=1u L=1u
+.MODEL PMOS PMOS (LEVEL=1 VTO=1 KP=1.0e-4 LAMBDA=0.02)
+
+.OP
+.END
+

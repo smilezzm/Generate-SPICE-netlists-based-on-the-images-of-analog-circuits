@@ -1,0 +1,292 @@
+{
+  "capacitor_0": [],
+  "capacitor_180": [],
+  "capacitor_270": [],
+  "capacitor_90": [],
+  "current-arrow_0": [
+    [
+      524,
+      70,
+      595,
+      143
+    ],
+    [
+      525,
+      979,
+      596,
+      1052
+    ]
+  ],
+  "current-arrow_180": [],
+  "current-arrow_270": [],
+  "current-arrow_90": [],
+  "current_0": [],
+  "current_180": [],
+  "current_270": [],
+  "current_90": [],
+  "gnd_0": [
+    [
+      631,
+      86,
+      675,
+      130
+    ],
+    [
+      633,
+      996,
+      675,
+      1038
+    ],
+    [
+      723,
+      391,
+      765,
+      433
+    ],
+    [
+      723,
+      694,
+      765,
+      736
+    ]
+  ],
+  "gnd_180": [],
+  "gnd_270": [],
+  "gnd_90": [],
+  "net-black_111": [
+    [
+      404,
+      1154,
+      430,
+      1180
+    ]
+  ],
+  "net-black_120": [],
+  "net-black_121": [],
+  "net-black_201": [],
+  "net-black_210": [
+    [
+      312,
+      398,
+      341,
+      427
+    ],
+    [
+      402,
+      397,
+      431,
+      426
+    ]
+  ],
+  "net-black_211": [],
+  "net-black_21": [
+    [
+      403,
+      701,
+      429,
+      727
+    ]
+  ],
+  "net-black_291": [],
+  "net-black_300": [],
+  "net-black_301": [],
+  "net-black_30": [
+    [
+      310,
+      700,
+      340,
+      730
+    ],
+    [
+      401,
+      1001,
+      431,
+      1031
+    ],
+    [
+      461,
+      92,
+      491,
+      122
+    ]
+  ],
+  "net-black_31": [],
+  "net-white_100": [],
+  "net-white_10": [],
+  "net-white_190": [
+    [
+      401,
+      756,
+      431,
+      787
+    ]
+  ],
+  "net-white_280": [],
+  "nmos-cross_0": [
+    [
+      501,
+      344,
+      574,
+      418
+    ]
+  ],
+  "nmos-cross_180": [],
+  "nmos-cross_270": [],
+  "nmos-cross_90": [],
+  "nmos-mirror-cross_0": [
+    [
+      620,
+      708,
+      695,
+      778
+    ]
+  ],
+  "nmos-mirror-cross_180": [],
+  "nmos-mirror-cross_270": [],
+  "nmos-mirror-cross_90": [],
+  "nmos-mirror_0": [
+    [
+      289,
+      101,
+      363,
+      173
+    ],
+    [
+      621,
+      404,
+      694,
+      475
+    ]
+  ],
+  "nmos-mirror_180": [
+    [
+      230,
+      650,
+      304,
+      722
+    ]
+  ],
+  "nmos-mirror_270": [],
+  "nmos-mirror_90": [],
+  "nmos_0": [
+    [
+      290,
+      951,
+      366,
+      1023
+    ]
+  ],
+  "nmos_180": [],
+  "nmos_270": [],
+  "nmos_90": [],
+  "opamp-2_0": [],
+  "opamp-2_180": [],
+  "opamp-2_270": [],
+  "opamp-2_90": [],
+  "opamp-3-mirror_0": [],
+  "opamp-3-mirror_180": [],
+  "opamp-3-mirror_270": [],
+  "opamp-3-mirror_90": [],
+  "opamp-3_0": [],
+  "opamp-3_180": [],
+  "opamp-3_270": [],
+  "opamp-3_90": [],
+  "pmos-cross_0": [
+    [
+      230,
+      347,
+      305,
+      419
+    ]
+  ],
+  "pmos-cross_180": [],
+  "pmos-cross_270": [],
+  "pmos-cross_90": [],
+  "pmos-mirror-cross_0": [
+    [
+      110,
+      708,
+      184,
+      780
+    ]
+  ],
+  "pmos-mirror-cross_180": [],
+  "pmos-mirror-cross_270": [],
+  "pmos-mirror-cross_90": [],
+  "pmos-mirror_0": [
+    [
+      110,
+      406,
+      183,
+      476
+    ]
+  ],
+  "pmos-mirror_180": [
+    [
+      501,
+      650,
+      574,
+      720
+    ]
+  ],
+  "pmos-mirror_270": [],
+  "pmos-mirror_90": [],
+  "pmos_0": [],
+  "pmos_180": [],
+  "pmos_270": [],
+  "pmos_90": [],
+  "resistor_0": [],
+  "resistor_180": [],
+  "resistor_270": [],
+  "resistor_90": [
+    [
+      392,
+      1063,
+      443,
+      1119
+    ],
+    [
+      392,
+      1214,
+      443,
+      1270
+    ]
+  ],
+  "vdd_0": [
+    [
+      35,
+      93,
+      78,
+      123
+    ],
+    [
+      35,
+      397,
+      78,
+      427
+    ],
+    [
+      35,
+      701,
+      78,
+      731
+    ],
+    [
+      35,
+      1004,
+      78,
+      1034
+    ]
+  ],
+  "vdd_180": [],
+  "vdd_270": [],
+  "vdd_90": [],
+  "voltage-mirror_0": [],
+  "voltage-mirror_180": [],
+  "voltage-mirror_270": [],
+  "voltage-mirror_90": [],
+  "voltage_0": [],
+  "voltage_180": [],
+  "voltage_270": [],
+  "voltage_90": []
+}

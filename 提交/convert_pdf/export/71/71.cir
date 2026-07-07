@@ -1,0 +1,8 @@
+*SPICE Netlist for circuit 71
+C1 1 2 1nF
+I1 1 0 DC 1mA
+U1 1 2
+
+.OP
+.END
+

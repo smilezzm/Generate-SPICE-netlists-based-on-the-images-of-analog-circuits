@@ -1,0 +1,10 @@
+*SPICE Netlist for circuit 64
+C1 0 2 1nF
+R2 0 3 1k
+R3 6 2 1k
+R1 3 2 1k
+U1 3 4 6
+
+.OP
+.END
+

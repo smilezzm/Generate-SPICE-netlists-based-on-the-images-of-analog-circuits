@@ -1,0 +1,8 @@
+*SPICE Netlist for circuit 32
+C1 5 1 1nF
+U1 4 3 5
+R1 2 1 1k
+
+.OP
+.END
+

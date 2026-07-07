@@ -1,0 +1,70 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX build products
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+
+# Local model/checkpoint files
+*.pt
+*.pth
+*.ckpt
+
+# Large local media and course presentation drafts
+*.mp4
+/presentation.docx
+/presentation.pptx
+/Week*_Report_Mengyao.pptx
+
+# Exploratory scratch artifacts at the project root
+/clustering.ipynb
+/updated_AMSNet.ipynb
+/Netlist_for_pdf.ipynb
+/temp.py
+/output.jpg
+/circuit*.png
+/SPICE component def.jpg
+
+# Raw datasets, third-party code, and large intermediate work folders
+/2024work/
+/circuits_from_book/
+/circuits_from_pdf/
+/convert_book/
+/convert_pdf/
+/essays with circuits figures/
+/instructions/
+/segment-anything-main/
+/self_dataset/
+
+# Duplicate submission archive; keep the unpacked folder instead
+/提交/convert_pdf.zip

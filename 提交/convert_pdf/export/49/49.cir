@@ -1,0 +1,8 @@
+*SPICE Netlist for circuit 49
+R1 0 2 1k
+U1 2 1
+R2 2 1 1k
+
+.OP
+.END
+

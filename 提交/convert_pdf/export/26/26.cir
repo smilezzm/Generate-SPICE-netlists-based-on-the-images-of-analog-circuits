@@ -1,0 +1,14 @@
+*SPICE Netlist for circuit 26
+I1 2 4 DC 1mA
+I2 10 7 DC 1mA
+I3 9 3 DC 1mA
+V2 0 11 5V
+V1 0 12 5V
+R1 2 0 1k
+R3 9 3 1k
+R4 4 2 1k
+R2 7 10 1k
+
+.OP
+.END
+
