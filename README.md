@@ -1,4 +1,5 @@
 # Image-to-SPICE Netlist Generation for Analog Circuits
+![](./report/figures/spice_example.png)
 
 Course project for Directed Research in AI, Peking University.
 
